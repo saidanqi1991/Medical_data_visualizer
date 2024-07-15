@@ -1,7 +1,9 @@
 # Medical_data_visualizer
 Freecodecamp_Medical data visualizer
 
-This is a python project from Freecodecamp. Below is the instruction: 
+This is a python project from Freecodecamp. Instructions for building your project can be found at https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/medical-data-visualizer. 
+
+Below is the instruction: 
 In this project, you will visualize and make calculations from medical examination data using matplotlib, seaborn, and pandas. The dataset values were collected during medical examinations.
 
 Data description
